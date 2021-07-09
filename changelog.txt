@@ -1,0 +1,22 @@
+
+Version 1.0.2 (July 7, 2021)
+- NEW: Added blog posts page.
+- NEW: Added Maintenance mode.
+- NEW: Added Automatic Language Detection.
+- NEW: Added JSON API.
+- ENHANCEMENT: Improved Facebook module.
+- ENHANCEMENT: Improved Instagram module.
+- ENHANCEMENT: Update Bootstrap v5.0.2.
+- FIXED: Preview Image on Download Box.
+- FIXED: Parallax Image on Mobile.
+- Minor bug fixes.
+
+Version 1.0.1 (June 22, 2021)
+- FIXED: Error getting some facebook links.
+- FIXED: Error displaying Menu on mobile.
+- FIXED: Installation error on subfolder.
+- DEV: Added advanced feature (Insert Header & Footer).
+- Minor bug fixes.
+
+Version 1.0.0 (June 1, 2021)
+ - Initial release.
